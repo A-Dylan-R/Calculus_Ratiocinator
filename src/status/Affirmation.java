@@ -1,3 +1,5 @@
+package status;
+
 public class Affirmation {
     private final String texte;
     private final Boolean valeur; // vrai, faux, ou null pour indécis
